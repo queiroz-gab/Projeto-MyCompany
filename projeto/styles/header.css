@@ -3,7 +3,7 @@
     padding: 1em 0 1em 0;
 }
 
-.cabeçalho-container {
+.cabecalho-container {
     display: flex;
     justify-content: space-between;
 }
