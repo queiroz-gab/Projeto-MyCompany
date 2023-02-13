@@ -1,4 +1,4 @@
-.cabeçalho {
+.cabecalho {
     background-color: var(--branco-de-fundo);
     padding: 1em 0 1em 0;
 }
@@ -8,23 +8,23 @@
     justify-content: space-between;
 }
 
-.cabeçalho-h1 {
+.cabecalho-h1 {
     color: var(--cor-do-titulo);
     margin-left: .5em;
     font-size: 20px;
     font-weight: bold;
 }
 
-.cabeçalho-img {
+.cabecalho-img {
     width: 0.9%;
     padding: 1em 0;
 }
 
-.cabeçalho-pesquisa-p {
+.cabecalho-pesquisa-p {
     margin-bottom: .5em;
 }
 
-.cabeçalho-pesquisa-input {
+.cabecalho-pesquisa-input {
     background-color: transparent;
     border: 1px solid var(--cinza);
     color: var(--branco);
@@ -33,7 +33,7 @@
     padding-bottom: .5em;
 }
 
-.cabeçalho-pesquisa-input::placeholder {
+.cabecalho-pesquisa-input::placeholder {
     font-family: var(--fonte-principal);
     font-size: 14px;
     font-weight: 400;
