@@ -1,0 +1,18 @@
+@import url(styles/header.css);
+@import url(styles/container.css);
+
+:root {
+    --branco-de-fundo: #FFFFFF;
+    --azul-de-fundo: #d3d6e2;
+    --cor-do-titulo: #7444acd8;
+    --cinza: #ebebeb;
+    --preto: #000000;
+    --verde: #089627;
+}
+
+body {
+    background-color: var(--azul-de-fundo);
+    font-family: 'Inter', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
